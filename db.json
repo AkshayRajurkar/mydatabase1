@@ -1,7 +1,5 @@
-[
-{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"irctc"},
-{"type":"table","name":"pnr_details","database":"irctc","data":
+{
+"profile":
 [
 {"PNR_no":"1234567890","source code":"00","Passenger_Details":"Johny Liver","M\/F":"M","Age":"56","Confirm":"Y","Seat No.":"S8-10","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
 {"PNR_no":"1234567891","source code":"00","Passenger_Details":"Prabhas Bhai","M\/F":"M ","Age":"40","Confirm":"Y","Seat No.":"S3-12","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Badnera"},
@@ -20,13 +18,6 @@
 {"PNR_no":"2147483649","source code":"00","Passenger_Details":"Tapasi Panno\r\n","M\/F":"F\r\n","Age":"28\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/36\r\n","Current Status":"WL\/34\r\n","Source":"Shegaon\r\n","Destination":"Nagpur"},
 {"PNR_no":"2147483649","source code":"00","Passenger_Details":"Shahrukh Khan\r\n","M\/F":"M\r\n","Age":"18\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/37\r\n","Current Status":"WL\/35\r\n","Source":"Shegaon\r\n","Destination":"Nagpur"},
 {"PNR_no":"2147483649","source code":"00","Passenger_Details":"Salman Khan\r\n","M\/F":"M\r\n","Age":"19\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/38\r\n","Current Status":"WL\/36\r\n","Source":"Shegaon\r\n","Destination":"Nagpur"},
-{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Aamir Khan\r\n","M\/F":"M\r\n","Age":"20\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/39\r\n","Current Status":"WL\/37\r\n","Source":"Shegaon\r\n","Destination":"Nagpur"},
-{"PNR_no":"2147483650","source code":"02","Passenger_Details":"Amitabh Bacchan\r\n","M\/F":"M\r\n","Age":"65\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/40\r\n","Current Status":"WL\/38\r\n","Source":"Badnera\r\n","Destination":"Wardha\r\n"},
-{"PNR_no":"2147483651","source code":"03","Passenger_Details":"Shatrugna Sinha\r\n","M\/F":"M\r\n","Age":"61\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/57\r\n","Current Status":"WL\/25\r\n","Source":"Wardha \r\n","Destination":"nagpur"},
-{"PNR_no":"2147483652","source code":"03","Passenger_Details":"Honey Singh\r\n","M\/F":"M\r\n","Age":"39\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/66\r\n","Current Status":"WL\/22\r\n","Source":"Wardha","Destination":"nagpur"},
-{"PNR_no":"2147483652","source code":"02","Passenger_Details":"Milkha Singh\r\n","M\/F":"M\r\n","Age":"54\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/42\r\n","Current Status":"WL\/15\r\n","Source":"Badnera","Destination":"Nagpur\r\n"},
-{"PNR_no":"2147483653","source code":"02","Passenger_Details":"Dara Singh\r\n","M\/F":"M\r\n","Age":"60\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/43\r\n","Current Status":"WL\/16\r\n","Source":"Badnera","Destination":"Nagpur\r\n"},
-{"PNR_no":"2147483653","source code":"02","Passenger_Details":"Karan Johar\r\n","M\/F":"M\r\n","Age":"29\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/44\r\n","Current Status":"WL\/17\r\n","Source":"Badnera","Destination":"Nagpur\r\n"}
+{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Aamir Khan\r\n","M\/F":"M\r\n","Age":"20\r\n","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/39\r\n","Current Status":"WL\/37\r\n","Source":"Shegaon\r\n","Destination":"Nagpur"}
 ]
 }
-]

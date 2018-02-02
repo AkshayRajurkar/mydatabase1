@@ -1,7 +1,7 @@
 {
 "profile":
 [
-{"PNR_no":"1234567890","source code":"00","Passenger_Details":"Johny Liver","M\/F":"M","Age":"56","Confirm":"Y","Seat No.":"S8-10","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"1234567890","source code":"00","Passenger_Details":"Johny Liver","M\/F":"M","Age":"M-56","Confirm":"Y","Seat No.":"S8-10","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
 {"PNR_no":"1234567891","source code":"00","Passenger_Details":"Prabhas Bhai","M\/F":"M ","Age":"40","Confirm":"Y","Seat No.":"S3-12","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Badnera"},
 {"PNR_no":"1234567892","source code":"00","Passenger_Details":"Mithun Chakravarti","M\/F":"M","Age":"58","Confirm":"Y","Seat No.":"S4-25","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
 {"PNR_no":"1234567893","source code":"00","Passenger_Details":"Hema Malini","M\/F":"F","Age":"25","Confirm":"Y","Seat No.":"S5-23","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},

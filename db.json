@@ -17,7 +17,7 @@
 {"PNR_no":"2147483648","source code":"02","Passenger_Details":"Sakshi Dhoni","M\/F":"F","Age":"34","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/11","Current Status":"WL\/03","Source":"Akola","Destination":"Sevagram"},
 {"PNR_no":"2147483649","source code":"00","Passenger_Details":"Tapasi Panno","M\/F":"F","Age":"28","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/36","Current Status":"WL\/34","Source":"Shegaon","Destination":"Nagpur"},
 {"PNR_no":"2147483649","source code":"00","Passenger_Details":"Shahrukh Khan","M\/F":"M","Age":"18","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/37","Current Status":"WL\/35","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Salman Khan","M\/F":"M","Age":"19","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/38","Current Status":"WL\/36","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Aamir Khan","M\/F":"M","Age":"20","Confirm":"N\r\n","Seat No.":"","Verified":"","Booking Stauts":"WL\/39","Current Status":"WL\/37","Source":"Shegaon","Destination":"Nagpur"}
+{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Salman Khan","M\/F":"M","Age":"19","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/38","Current Status":"WL\/36","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Aamir Khan","M\/F":"M","Age":"20","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/39","Current Status":"WL\/37","Source":"Shegaon","Destination":"Nagpur"}
 ]
 }

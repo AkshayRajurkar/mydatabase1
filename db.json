@@ -1,23 +1,23 @@
 {
 "profile":
 [
-{"PNR_no":"1234567890","source code":"00","Passenger_Details":"Johny Liver","Age":"M-56","Confirm":"Y","Seat No.":"S8-10","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"1234567891","source code":"00","Passenger_Details":"Prabhas Bhai","Age":"M-40","Confirm":"Y","Seat No.":"S3-12","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Badnera"},
-{"PNR_no":"1234567892","source code":"00","Passenger_Details":"Mithun Chakravarti","Age":"M-58","Confirm":"Y","Seat No.":"S4-25","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"1234567893","source code":"00","Passenger_Details":"Hema Malini","Age":"F-25","Confirm":"Y","Seat No.":"S5-23","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"2147483647","source code":"03","Passenger_Details":"Sunil Shetty","Age":"M-49","Confirm":"Y","Seat No.":"S3-01","Verified":"","Booking Stauts":"","Current Status":"","Source":"wardha","Destination":"nagpur"},
-{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Ajay Devgan","Age":"M-48","Confirm":"Y","Seat No.":"S3-06","Verified":"","Booking Stauts":"","Current Status":"","Source":"Akola","Destination":"Wardha"},
-{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Rani Mukharji","Age":"F-41","Confirm":"Y","Seat No.":"S3-08","Verified":"","Booking Stauts":"","Current Status":"","Source":"akola","Destination":"Wardha"},
-{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Akshay Khanna","Age":"M-45","Confirm":"Y","Seat No.":"S3-09","Verified":"","Booking Stauts":"","Current Status":"","Source":"akola","Destination":"Wardha"},
-{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Priyanka Chopra","Age":"F-29","Confirm":"Y","Seat No.":"S3-10","Verified":"","Booking Stauts":"","Current Status":"","Source":"Akola","Destination":"Wardha"},
-{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Sachin Tendulkar","Age":"M-40","Confirm":"Y","Seat No.":"S3-11","Verified":"","Booking Stauts":"","Current Status":"","Source":"Akola","Destination":"Wardha"},
-{"PNR_no":"2147483647","source code":"02","Passenger_Details":"Virat Kohli","Age":"M-32","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/06","Current Status":"WL\/03","Source":"Badnera","Destination":"Nagpur"},
-{"PNR_no":"2147483647","source code":"02","Passenger_Details":"Anushka Sharma","Age":"F-29","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/07","Current Status":"WL\/04","Source":"Badnera","Destination":"Nagpur"},
-{"PNR_no":"2147483648","source code":"02","Passenger_Details":"MahendraSingh Dhoni","Age":"M-36","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/10","Current Status":"WL\/02","Source":"Akola","Destination":"Sevagram"},
-{"PNR_no":"2147483648","source code":"02","Passenger_Details":"Sakshi Dhoni","Age":"F-34","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/11","Current Status":"WL\/03","Source":"Akola","Destination":"Sevagram"},
-{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Tapasi Panno","Age":"F-28","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/36","Current Status":"WL\/34","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Shahrukh Khan","Age":"M-18","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/37","Current Status":"WL\/35","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Salman Khan","Age":"M-19","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/38","Current Status":"WL\/36","Source":"Shegaon","Destination":"Nagpur"},
-{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Aamir Khan","Age":"M-20","Confirm":"N","Seat No.":"","Verified":"","Booking Stauts":"WL\/39","Current Status":"WL\/37","Source":"Shegaon","Destination":"Nagpur"}
+{"PNR_no":"1234567890","source code":"00","Passenger_Details":"Johny Liver","Age":"M-56","Confirm":"Y","Seat_No":"S8-10","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"1234567891","source code":"00","Passenger_Details":"Prabhas Bhai","Age":"M-40","Confirm":"Y","Seat_No":"S3-12","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Badnera"},
+{"PNR_no":"1234567892","source code":"00","Passenger_Details":"Mithun Chakravarti","Age":"M-58","Confirm":"Y","Seat_No":"S4-25","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"1234567893","source code":"00","Passenger_Details":"Hema Malini","Age":"F-25","Confirm":"Y","Seat_No":"S5-23","Verified":"","Booking Stauts":"","Current Status":"","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"2147483647","source code":"03","Passenger_Details":"Sunil Shetty","Age":"M-49","Confirm":"Y","Seat_No":"S3-01","Verified":"","Booking Stauts":"","Current Status":"","Source":"wardha","Destination":"nagpur"},
+{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Ajay Devgan","Age":"M-48","Confirm":"Y","Seat_No":"S3-06","Verified":"","Booking Stauts":"","Current Status":"","Source":"Akola","Destination":"Wardha"},
+{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Rani Mukharji","Age":"F-41","Confirm":"Y","Seat_No":"S3-08","Verified":"","Booking Stauts":"","Current Status":"","Source":"akola","Destination":"Wardha"},
+{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Akshay Khanna","Age":"M-45","Confirm":"Y","Seat_No":"S3-09","Verified":"","Booking Stauts":"","Current Status":"","Source":"akola","Destination":"Wardha"},
+{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Priyanka Chopra","Age":"F-29","Confirm":"Y","Seat_No":"S3-10","Verified":"","Booking Stauts":"","Current Status":"","Source":"Akola","Destination":"Wardha"},
+{"PNR_no":"2147483647","source code":"01","Passenger_Details":"Sachin Tendulkar","Age":"M-40","Confirm":"Y","Seat_No":"S3-11","Verified":"","Booking Stauts":"","Current Status":"","Source":"Akola","Destination":"Wardha"},
+{"PNR_no":"2147483647","source code":"02","Passenger_Details":"Virat Kohli","Age":"M-32","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/06","Current Status":"WL\/03","Source":"Badnera","Destination":"Nagpur"},
+{"PNR_no":"2147483647","source code":"02","Passenger_Details":"Anushka Sharma","Age":"F-29","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/07","Current Status":"WL\/04","Source":"Badnera","Destination":"Nagpur"},
+{"PNR_no":"2147483648","source code":"02","Passenger_Details":"MahendraSingh Dhoni","Age":"M-36","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/10","Current Status":"WL\/02","Source":"Akola","Destination":"Sevagram"},
+{"PNR_no":"2147483648","source code":"02","Passenger_Details":"Sakshi Dhoni","Age":"F-34","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/11","Current Status":"WL\/03","Source":"Akola","Destination":"Sevagram"},
+{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Tapasi Panno","Age":"F-28","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/36","Current Status":"WL\/34","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Shahrukh Khan","Age":"M-18","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/37","Current Status":"WL\/35","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Salman Khan","Age":"M-19","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/38","Current Status":"WL\/36","Source":"Shegaon","Destination":"Nagpur"},
+{"PNR_no":"2147483649","source code":"00","Passenger_Details":"Aamir Khan","Age":"M-20","Confirm":"N","Seat_No":"","Verified":"","Booking Stauts":"WL\/39","Current Status":"WL\/37","Source":"Shegaon","Destination":"Nagpur"}
 ]
 }
